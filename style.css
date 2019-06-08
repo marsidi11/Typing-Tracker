@@ -1,0 +1,35 @@
+body {
+	background: #b2bec3
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 48px;
+}
+
+#text {
+	font-size: 35px;	
+	text-align: center;
+	margin: 10px;
+}
+
+#tracker {
+	text-align: center;
+}
+
+input {
+	text-align: center;
+	background: transparent;
+	border: red solid 3px;
+	font-size: 25px;
+}
+
+#box {
+	border: solid 5px black;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	margin-top: 4%;
+	margin-left: 30%;
+}
